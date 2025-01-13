@@ -49,15 +49,19 @@ The system can be configured with the following parameters:
 git clone git clone https://github.com/zazabuzaladze/gestus.git
 cd gestus
 ```
+2. Unzip the dataset:
+   - Extract the `datensatz1.zip` file in the project directory
+   - Make sure the extracted folder is named `datensatz1`
+   - The final structure should show `datensatz1` as a directory containing the gesture classes
 
-2. Ensure you have the trained model (`gesten1.h5`) and dataset directory (`datensatz1`) in place.
+3. Ensure you have the trained model (`gesten1.h5`) and dataset directory (`datensatz1`) in place.
 
-3. Run the application:
+4. Run the application:
 ```bash
 python gestus.py
 ```
 
-4. Use the webcam interface:
+5. Use the webcam interface:
    - Perform gestures in front of the camera
    - The recognized gesture will be displayed at the top of the window
    - Press 's' to stop the application
