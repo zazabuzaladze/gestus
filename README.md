@@ -61,7 +61,8 @@ python gestus.py
    - Perform gestures in front of the camera
    - The recognized gesture will be displayed at the top of the window
    - Press 's' to stop the application
-![X-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/2887a202-ed41-428e-9420-18c2b9ed3b2f)
+![X-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/fd2d7b3f-f0c1-430c-8d1c-e44dfe0625a0)
+
 
 ## Technical Details
 
