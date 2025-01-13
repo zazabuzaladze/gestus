@@ -31,7 +31,8 @@ pip install mediapipe numpy opencv-python tensorflow scikit-learn
 gestus/
 ├── gestus.py          # Main application file
 ├── gesten1.h5         # Pre-trained model
-└── datensatz1/        # Dataset folder
+├── datensatz1.zip     # Compressed dataset file
+└── datensatz1/        # Dataset folder (after unzipping)
 ```
 
 ## Configuration
