@@ -46,7 +46,7 @@ The system can be configured with the following parameters:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone git clone https://github.com/zazabuzaladze/gestus.git
 cd gestus
 ```
 
